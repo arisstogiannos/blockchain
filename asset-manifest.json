@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/blockchain/static/css/main.fbcb7067.css",
+    "main.js": "/blockchain/static/js/main.8cd11ada.js",
+    "static/js/488.fed75df2.chunk.js": "/blockchain/static/js/488.fed75df2.chunk.js",
+    "index.html": "/blockchain/index.html",
+    "main.fbcb7067.css.map": "/blockchain/static/css/main.fbcb7067.css.map",
+    "main.8cd11ada.js.map": "/blockchain/static/js/main.8cd11ada.js.map",
+    "488.fed75df2.chunk.js.map": "/blockchain/static/js/488.fed75df2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbcb7067.css",
+    "static/js/main.8cd11ada.js"
+  ]
+}
